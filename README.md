@@ -5,7 +5,7 @@ A simple console game written in F#, and inspired by [Mastermind](https://en.wik
 ## Try it out
 
 ```dotnetcli
-dotnet run --project .\Mastermind\
+dotnet run --project Mastermind
 ```
 
 Crack the code.
