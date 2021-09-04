@@ -1,8 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# 
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Mastermind", "Mastermind\Mastermind.fsproj", "{DAF2AA84-7916-466B-994A-6AE272D2E9D1}"
-EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Mastermind.Console", "Mastermind.Console\Mastermind.Console.fsproj", "{643B7E41-C66E-47A4-B172-94C660138C7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +13,5 @@ Global
 		{DAF2AA84-7916-466B-994A-6AE272D2E9D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAF2AA84-7916-466B-994A-6AE272D2E9D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAF2AA84-7916-466B-994A-6AE272D2E9D1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{643B7E41-C66E-47A4-B172-94C660138C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{643B7E41-C66E-47A4-B172-94C660138C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{643B7E41-C66E-47A4-B172-94C660138C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{643B7E41-C66E-47A4-B172-94C660138C7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
